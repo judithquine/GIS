@@ -1,4 +1,6 @@
+GIS
 
+Intial info: 
 https://github.com/aariste/GeoJSON-Mapas 
 https://datatracker.ietf.org/doc/html/rfc7946
 
